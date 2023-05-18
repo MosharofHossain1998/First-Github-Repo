@@ -1,0 +1,33 @@
+h1{
+    color:Blue;
+    background-color: black;
+}
+
+h2{
+    color: rgba(85, 70, 66, 0.646);
+    background-color: yellow;
+    
+}
+p{
+    color: red;
+    background-color: black;
+    height: 50px;
+    width: 50%;
+    font-size: 20px;
+}
+#Introduce{
+    color: white;
+    background-color: red;
+    height: 120px;
+    width: 75%;
+    font-size: 20px;
+}
+
+.KeyPlayer{
+    color: antiquewhite;
+    background-color: blue;
+    height: 25px;
+    width: 80%;
+    font-size: 20px;
+
+}
